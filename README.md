@@ -1,4 +1,4 @@
-# COVID-19 Assistant 
+# COVID19-research-assistant
 IBM 2020 Call for Code Global Challenge
 
 # project proposal:
@@ -37,4 +37,3 @@ With IBM Watson Assistant service helps you build, train, and deploy conversatio
 •	https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020#the-idea 
 
 
-# COVID19-research-assistant
