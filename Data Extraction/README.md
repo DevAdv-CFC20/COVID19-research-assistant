@@ -8,7 +8,7 @@ Each executed file formated as the following order:
 - abstract
 - full-text article
 
-# benefits of this task:
+# Benefits of this task:
 
 - Better accuracy clear data formatted as text document.  
 - Easy to train Watson Discovery machine learning. 
