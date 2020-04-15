@@ -10,6 +10,6 @@ Each executed file formated as the following order:
 
 # benefits of this task:
 
-- It is to get better accuracy clear data formatted as text document.  
+- Better accuracy clear data formatted as text document.  
 - Easy to train Watson Discovery machine learning. 
 - Accurate better result for the model. 
