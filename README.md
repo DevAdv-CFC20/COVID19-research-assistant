@@ -15,8 +15,8 @@ We aim to assist medical professional accelerate their work to help fight COVID-
 # Architecture Diagram
 ![](architecture-diagram.png)
 
-# Solution
-The Cord-19 resource offers more than 44,000 scholarly articles, including over 29,000 with full text, about Covid-19, Sars-CoV-2 and related coronaviruses.<br>
+# Solution  
+The Cord-19 resource offers more than 57,000 scholarly articles, including over 45,000 with full text, about Covid-19, Sars-CoV-2 and related coronaviruses.<br>
 
 With this provided dataset, we are looking into building an assistant to assist medical professionals generate new insights, and discover patterns in a short time to accelerate the work in fighting COVID-19 and help treat the patients.<br>
 
