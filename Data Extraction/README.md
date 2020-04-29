@@ -1,7 +1,7 @@
 
 # Phase one: 
 
-Clear Data by Extracting "full-text article" from 44k json files to txts \ Htmls, and get them upload to Watson Discovery 
+Clear Data by Extracting "full-text article" from jsons files to txts \ Htmls, and get them upload to Watson Discovery 
 
 Each executed file formated as the following order:
 - title
