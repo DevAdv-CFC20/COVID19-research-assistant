@@ -10,7 +10,7 @@ Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
 [![video](video.png)](https://youtu.be/FATZB006K8M)
 
-# project proposal:
+# Project proposal:
 
 https://github.ibm.com/IBMCode/IBMCodeContent/issues/4049 
 
