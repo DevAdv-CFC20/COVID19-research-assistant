@@ -1,5 +1,6 @@
-# COVID19-research-assistant
-IBM 2020 Call for Code Global Challenge
+# COVID19 Research Assistant
+
+Call for Code 2020 Global Challenge
 
 # Collaborators: 
 
