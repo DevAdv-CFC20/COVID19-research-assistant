@@ -4,7 +4,7 @@ Call for Code 2020 Global Challenge
 
 # Collaborators: 
 
-Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi,Saad Tariq
+Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
 # Proposal Video:
 
