@@ -1,11 +1,18 @@
 # COVID19-research-assistant
 IBM 2020 Call for Code Global Challenge
 
+# Collaborators: 
+
+Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi,Saad Tariq
+
+# Proposal Video:
+
+[![video](video pic.png)](https://youtu.be/FATZB006K8M)
+
 # project proposal:
+
 https://github.ibm.com/IBMCode/IBMCodeContent/issues/4049 
 
-# Collaborators: 
-Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi,Saad Tariq
 
 # Problem Statement:
 The rapid acceleration in new coronavirus literature, makes it difficult for the medical research community to keep up. Therefore there's a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
