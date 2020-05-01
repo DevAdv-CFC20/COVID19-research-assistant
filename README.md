@@ -1,4 +1,4 @@
-# COVID19 Research Assistant
+# Covid-19 Research Assistant
 
 Call for Code 2020 Global Challenge
 
