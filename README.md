@@ -7,7 +7,7 @@ Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi,Saad Tariq
 
 # Proposal Video:
 
-[![video](video pic.png)](https://youtu.be/FATZB006K8M)
+[![video](video.png)](https://youtu.be/FATZB006K8M)
 
 # project proposal:
 
@@ -29,7 +29,7 @@ With this provided dataset, we are looking into building an assistant to assist 
 
 With IBM Watson Discovery serivce , we are going to feed and train IBM  Watson Discovery Smart Document Understanding to analyze the dataset and then, we will build A robot chatbot that can help the medical community develop answers to high priority scientific questions. Also, This can help medical professionals accelerate their research on COVID-19.<br>
 
-With IBM Watson Assistant service helps you build, train, and deploy conversational interactions into any application, device, or channel. Creating a chatbot using Watson Assistant can help address the issues that our users face while trying to gather accurate, relevant information. 
+With IBM Watson Assistant service helps us build, train, and deploy conversational interactions into any application, device, or channel. Creating a chatbot using Watson Assistant can help address the issues that our users face while trying to gather accurate, relevant information. 
 
 # Timeline
 
