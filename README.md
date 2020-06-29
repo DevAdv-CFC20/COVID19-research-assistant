@@ -54,8 +54,11 @@ This task required a lot of reading and understanding the academic and scientifi
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA.<br> 
 
 ### Resources:
-•	https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks <br>
-•	https://www.statnews.com/2020/03/16/database-launched-to-spur-ai-tools-to-fight-coronavirus/ <br>
-•	https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020#the-idea 
+
+[1] https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge <br>
+[2] https://www.semanticscholar.org/cord19 <br>
+[3] https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases.html <br>
+[4] https://www.statnews.com/2020/03/16/database-launched-to-spur-ai-tools-to-fight-coronavirus/ <br>
+[5] https://github.com/Call-for-Code/Solution-Starter-Kit-Communication-2020#the-idea <br>
 
 
