@@ -2,7 +2,7 @@
 
 Call for Code 2020 Global Challenge
 
-The project related to Crisis Communication COVID-19 initiative.
+This project is related to Crisis Communication COVID-19 initiative.
 
 # Collaborators: 
 
