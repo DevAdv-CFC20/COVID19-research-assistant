@@ -1,4 +1,3 @@
-# Covid-19 Research Assistant
 
 ![](logo.png)
 
@@ -27,11 +26,13 @@ Kaggle has prepared free accessible datasets related to COVID-19 Open Research D
 
 The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 
+![](reasource.png)
+
 We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.
 
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.
 
-![]()
+![](WD doc.png)
 
 
 # Objective:
