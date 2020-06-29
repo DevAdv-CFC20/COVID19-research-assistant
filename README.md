@@ -1,5 +1,7 @@
 # Covid-19 Research Assistant
 
+![]()
+
 Call for Code 2020 Global Challenge
 
 This project is related to Crisis Communication COVID-19 initiative.
