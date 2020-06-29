@@ -18,34 +18,32 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 
 # Problem Statement:
 Today scientists, researchers, doctors, and medical professionals are challenging to develop answers to their high priority scientific questions.
-The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
+The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.<br>
 
 # Datasets Challenging:
 
-Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).
+Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
 
-The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
+The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.<br>
 
 ![](reasource.png)
 
-We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.
+We found these datasets helpful to apply the Watson Discovery AI Search Engine on those articles.<br>
 
-With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.
+With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 
-![](WD doc.png)
+![](Data_Uploaded.png)
 
 
 # Objective:
 
-We aim to assist medical professionals to accelerate their work to help fight COVID19. This will be reducing medical professional time by accessing a wider range of research resources in a short period of time. All the resources they need in one place.
+We aim to assist medical professionals to accelerate their work to help fight COVID19. This will be reducing medical professional time by accessing a wider range of research resources in a short period of time. All the resources they need in one place.<br>
 
 # Architecture Diagram
 ![](architecture-diagram.png)
 
 # Solution  
-The Cord-19 resource offers more than 57,000 scholarly articles, including over 45,000 with full text, about Covid-19, Sars-CoV-2 and related coronaviruses.<br>
-
-With this provided dataset, we are looking into building an assistant to assist medical professionals generate new insights, and discover patterns in a short time to accelerate the work in fighting COVID-19 and help treat the patients.<br>
+We are looking into building an assistant smart AI conversational chatbot to answer the user’s high priority scientific questions.<br>
 
 With IBM Watson Discovery serivce , we are going to feed and train IBM  Watson Discovery Smart Document Understanding to analyze the dataset and then, we will build A robot chatbot that can help the medical community develop answers to high priority scientific questions. Also, This can help medical professionals accelerate their research on COVID-19.<br>
 
