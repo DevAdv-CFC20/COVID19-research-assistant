@@ -53,6 +53,10 @@ This task required a lot of reading and understanding the academic and scientifi
 
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA.<br> 
 
+![](connection.png)
+![](.png)
+![](.png)
+
 ### Resources:
 
 [1] https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge <br>
