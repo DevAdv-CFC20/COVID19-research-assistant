@@ -54,8 +54,8 @@ This task required a lot of reading and understanding the academic and scientifi
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA.<br> 
 
 ![](connection.png)
-![](.png)
-![](.png)
+![](connection1.png)
+![](connection2.png)
 
 ### Resources:
 
