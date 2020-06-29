@@ -2,6 +2,8 @@
 
 Call for Code 2020 Global Challenge
 
+The project related to Crisis Communication COVID-19 initiative.
+
 # Collaborators: 
 
 Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
@@ -15,10 +17,13 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 [![video](video.png)](https://youtu.be/FATZB006K8M)
 
 # Problem Statement:
-The rapid acceleration in new coronavirus literature, makes it difficult for the medical research community to keep up. Therefore there's a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
+Today scientists, researchers, doctors, and medical professionals are challenging to develop answers to their high priority scientific questions.
+The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
 
 # Objective:
-We aim to assist medical professional accelerate their work to help fight COVID-19.
+
+We aim to assist medical professionals to accelerate their work to help fight COVID19. This will be reducing medical professional time by accessing a wider range of research resources in a short period of time. All the resources they need in one place.
+
 # Architecture Diagram
 ![](architecture-diagram.png)
 
