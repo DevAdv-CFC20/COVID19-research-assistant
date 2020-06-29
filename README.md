@@ -45,10 +45,13 @@ We aim to assist medical professionals to accelerate their work to help fight CO
 # Solution  
 We are looking into building an assistant smart AI conversational chatbot to answer the user’s high priority scientific questions.<br>
 
-With IBM Watson Discovery serivce , we are going to feed and train IBM  Watson Discovery Smart Document Understanding to analyze the dataset and then, we will build A robot chatbot that can help the medical community develop answers to high priority scientific questions. Also, This can help medical professionals accelerate their research on COVID-19.<br>
+With Watson Discovery smart AI search engine, we have feeded and trained our queries and rates the results with WD Machine learning.<br>
 
-With IBM Watson Assistant service helps us build, train, and deploy conversational interactions into any application, device, or channel. Creating a chatbot using Watson Assistant can help address the issues that our users face while trying to gather accurate, relevant information. 
+This task required a lot of reading and understanding the academic and scientific articles, we have built around 100 queries so far.<br>
 
+![](queries_rates.png)
+
+With Watson Assistant conversation AI chatbot, we are have integrated WD with WA.<br> 
 
 ### Resources:
 •	https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks <br>
