@@ -10,11 +10,11 @@ In our case, we have saved the results in HTML format, because WD doesn’t supp
 
 The script does; Each executed file formatted like the following order:
 
-title
+- title
 
-abstract
+- abstract
 
-full-text article
+- full-text article
 
 This task helped us to have clear data formatted as a text document, it will be easy to manage the data capacity, and it will be easy to train our queries into Watson Discovery machine learning. Consequently, we will have accurate better results for our model.
 
