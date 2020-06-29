@@ -35,7 +35,7 @@ This task required a lot of reading and understanding the academic and scientifi
 ## Demo Video
 [![video](video.png)](https://youtu.be/FATZB006K8M)
 
-## Architecture Diagram
+## The Architecture
 ![](architecture-diagram.png)
 
 ## Long Description
@@ -51,40 +51,28 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 ## Running the tests
 
 ## Live Demo
-
+https://covid19cfcc.eu-gb.mybluemix.net/
 ## Built with
 
 ## Authors
 Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
 
-
-
-
-
 ## Dataset
 Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
 The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.<br>
-![](reasource.png)
+![](reasource.png)<br>
 We found these datasets helpful to apply the Watson Discovery AI Search Engine on those articles.<br>
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
-![](Data_Uploaded.png)
+![](Data_Uploaded.png)<br>
 
+![](Rates_Results.png)<br>
 
-
-
-
-
-
-![](Rates_Results.png)
-
-![](queries.png)
+![](queries.png)<br>
 
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA through webhook.<br> 
 
 ![](connection.png)
-![](connection1.png)
-![](connection2.png)
 
 ### Resources
 
