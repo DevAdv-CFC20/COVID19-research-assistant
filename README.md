@@ -6,6 +6,10 @@ Call for Code 2020 Global Challenge
 
 Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
+# Blog: 
+
+https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to-analyze-open-research-dataset-by-kaggle-9807cf467626
+
 # Proposal Video:
 
 [![video](video.png)](https://youtu.be/FATZB006K8M)
