@@ -22,14 +22,13 @@ This project addresses the Crisis Communication COVID-19 challenge in Call for C
 
 ## Short Description
 ### Problem Statement
-Today scientists, researchers, doctors, and medical professionals are challenging to develop answers to their high priority scientific questions.
-The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.<br>
+Today scientists, researchers, doctors, and medical professionals face challenges when they look for answers to their high priority scientific questions.
+The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.<br>
 ### Objective
-
-We aim to assist medical professionals to accelerate their work to help fight COVID19. This will be reducing medical professional time by accessing a wider range of research resources in a short period of time. All the resources they need in one place.<br>
+We aim to assist medical professionals to accelerate their work to help fight COVID19. This will help reduce search time for medical professional time by accessing a wider range of research resource. All the resources they need in one place.<br>
 ### Solution  
-We are looking into building an assistant smart AI conversational chatbot to answer the user’s high priority scientific questions.<br>
-With Watson Discovery smart AI search engine, we have feeded and trained our queries and rates the results with WD Machine learning.<br>
+Our solution is an assistant that helps finding answers to the researchers' scientific questions.<br>
+With Watson Discovery smart AI search engine, we have fed and trained our queries and rated the results with WD Machine learning.<br>
 This task required a lot of reading and understanding the academic and scientific articles, we have built around 100 queries so far.<br>
 
 ## Demo Video
@@ -59,10 +58,10 @@ Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
 
 ## Dataset
-Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
+Kaggle has free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
 The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.<br>
 ![](reasource.png)<br>
-We found these datasets helpful to apply the Watson Discovery AI Search Engine on those articles.<br>
+We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.<br>
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 ![](Data_Uploaded.png)<br>
 
@@ -74,7 +73,9 @@ With Watson Assistant conversation AI chatbot, we are have integrated WD with WA
 
 ![](connection.png)
 
-### Resources
+## Acknowledgements
+
+## Resources
 
 [1] https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge <br>
 [2] https://www.semanticscholar.org/cord19 <br>
