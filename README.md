@@ -51,7 +51,7 @@ This task required a lot of reading and understanding the academic and scientifi
 
 ![](queries.png)
 
-With Watson Assistant conversation AI chatbot, we are have integrated WD with WA.<br> 
+With Watson Assistant conversation AI chatbot, we are have integrated WD with WA through webhook.<br> 
 
 ![](connection.png)
 ![](connection1.png)
