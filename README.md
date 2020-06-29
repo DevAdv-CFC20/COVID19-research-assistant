@@ -49,6 +49,9 @@ With Watson Discovery smart AI search engine, we have feeded and trained our que
 
 This task required a lot of reading and understanding the academic and scientific articles, we have built around 100 queries so far.<br>
 
+
+![](rates.png)
+
 ![](queries.png)
 
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA through webhook.<br> 
