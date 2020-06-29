@@ -20,13 +20,15 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 Today scientists, researchers, doctors, and medical professionals are challenging to develop answers to their high priority scientific questions.
 The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
 
-# Datasets challenging:
+# Datasets Challenging:
 
 Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).
 
 The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
 
 We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.
+
+With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.
 
 
 # Objective:
@@ -45,12 +47,6 @@ With IBM Watson Discovery serivce , we are going to feed and train IBM  Watson D
 
 With IBM Watson Assistant service helps us build, train, and deploy conversational interactions into any application, device, or channel. Creating a chatbot using Watson Assistant can help address the issues that our users face while trying to gather accurate, relevant information. 
 
-# Timeline
-
-1. Building a collection of documents using Watson Discovery.<br>
-2. Query the collection on Watson Discovery using natural language and train is using the relevancy score.<br>
-3. Create a frontend application using Watson Assistant webhooks to allow the user to ask their queries in natural language, which send the request to the Discovery service.<br>
-4. Finalize the Project.
 
 ### Resources:
 •	https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks <br>
