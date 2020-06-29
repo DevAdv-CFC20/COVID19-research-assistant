@@ -20,6 +20,15 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 Today scientists, researchers, doctors, and medical professionals are challenging to develop answers to their high priority scientific questions.
 The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep Up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.
 
+# Datasets challenging:
+
+Kaggle has prepared free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).
+
+The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.
+
+We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.
+
+
 # Objective:
 
 We aim to assist medical professionals to accelerate their work to help fight COVID19. This will be reducing medical professional time by accessing a wider range of research resources in a short period of time. All the resources they need in one place.
