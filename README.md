@@ -11,13 +11,14 @@ This project addresses the Crisis Communication COVID-19 challenge in Call for C
 1. [Long description](#long-description)
 1. [Blog](#blog)
 1. [Project roadmap](#project-roadmap)
+1. [Dataset](#Dataset)
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Authors](#authors)
 1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+1. [Acknowledgments](#acknowledgements)
 1. [Resources](#resources)
 
 ## Short Description
