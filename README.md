@@ -108,7 +108,7 @@ With Watson Assistant conversation AI chatbot, we are have integrated WD with WA
 
 ## Live Demo
 
-https://covid19cfcc.eu-gb.mybluemix.net/
+https://covid19assistantcfc.mybluemix.net/
 
 ## Built with
 
