@@ -78,6 +78,9 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 ![](WDLAB1.png)<br>
 
 
+Process your data and start feeding the Discovery.<br> 
+
+
 ![](WDLAB000.png)<br>
 
 
@@ -85,6 +88,9 @@ We have only prepared “comm_use_subset” which it has 9,120 articles to feed 
 
 
 ![](Data_Uploaded.png)<br>
+
+
+Below where you can navigate to start to build your queries.<br>
 
 
 ![](WDLAB2.png)<br>
@@ -108,6 +114,8 @@ Then, after you train your queries, start to rate the most relevant articles for
 3- Provisioning of Watson Assistant and Setting up our Chatbot: [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
 
+Setup the webhook. 
+
 
 ![](WALAB.png)<br> 
 
@@ -123,6 +131,7 @@ Then, after you train your queries, start to rate the most relevant articles for
 
 4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
 
+Integrate your WA with Discovery with Cloud Functions.<br>
 
 ![](functions.png)<br> 
 
