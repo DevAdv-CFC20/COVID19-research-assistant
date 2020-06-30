@@ -71,8 +71,6 @@ See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COV
 
 2- Create new Discovery to start prepare for uploading: [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) 
 
-With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
-
 ![](WDLAB.png)<br>
 
 ![](WDLAB1.png)<br>
@@ -84,6 +82,9 @@ With this provided datasets 158,000 scholarly articles, we have only prepared �
 ![](WDLAB000.png)<br>
 
 ![](Data_Uploaded.png)<br>
+
+we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
+
 
 ![](WDLAB2.png)<br>
 
