@@ -81,6 +81,10 @@ With Watson Assistant conversation AI chatbot, we are have integrated WD with WA
 
 ![](connection.png)
 
+## License
+
+This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
+
 ## Acknowledgements
 
 ## Resources
