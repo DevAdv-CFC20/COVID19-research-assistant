@@ -37,6 +37,12 @@ This task required a lot of reading and understanding the academic and scientifi
 ## The Architecture
 ![](architecture-diagram.png)
 
+
+1. The user interacts with Watson Assistant.
+2. Watson Assistant Invokes Watson Discovery.
+3. Watson Discovery finds the optimal results regarding the querries and responds to Assistant.
+4. Watson Assistant displays the results to the User.
+
 ## Long Description
 
 ## Blog
@@ -46,6 +52,8 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 ## Project Roadmap
 
 ## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Running the tests
 
