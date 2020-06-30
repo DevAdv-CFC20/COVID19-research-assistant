@@ -5,6 +5,7 @@
 
 The new output data can be found in the box, the share link here: https://ibm.box.com/s/8xeikvflfndb00hgg61ycqnp83amy3te
 In the share link, we will find two different zip folders which we have used for:
+
 The txt output is used for reading Abstract to extract questions for quieres.  
 The html output is the uploaded data into Discovery. 
 
