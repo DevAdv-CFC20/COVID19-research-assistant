@@ -162,7 +162,7 @@ Find the codes in [server](https://github.com/DevAdv-CFC20/COVID19-research-assi
 
 ## Running the tests
 
-You can test the app is running and deoplyed on the cloud: https://covid19assistantcfc.mybluemix.net/
+You can test the app is running and deployed on the cloud: https://covid19assistantcfc.mybluemix.net/
 
 If you want to run it on your local machine you need to clone the repo. 
 
