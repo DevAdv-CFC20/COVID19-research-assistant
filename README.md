@@ -99,7 +99,23 @@ Then, after you train your queries, start to rate the most relevant articles for
 
 3- Provisioning of Watson Assistant and Setting up our Chatbot: [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
+![](WALAB.png)<br> 
+
+![](WALAB1.png)<br> 
+
+![](WALAB2.png)<br>
+
+![](WALAB3.png)<br>
+
 4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
+
+![](functions.png)<br> 
+
+![](functions0.png)<br> 
+
+![](functions1.png)<br>
+
+![](functions2.png)<br>
 
 5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
 
