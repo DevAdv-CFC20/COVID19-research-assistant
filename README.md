@@ -95,7 +95,9 @@ https://covid19cfcc.eu-gb.mybluemix.net/
 
 ## Authors
 
-Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
+* **Mofaq Althiyabi** - *Initial work* - [MofaqAlthiyabi](https://github.com/MofaqAlthiyabi)
+
+See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
 ## License
 
