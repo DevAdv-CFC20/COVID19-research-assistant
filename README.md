@@ -73,9 +73,9 @@ See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COV
 
 ![](WDLAB.png)<br>
 
-![](WDLAB1.png)<br>
-
 ![](WDLAB0.png)<br>
+
+![](WDLAB1.png)<br>
 
 ![](WDLAB00.png)<br>
 
