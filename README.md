@@ -65,9 +65,7 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 ## Getting Started
 
 
-1- Data analysis: clean the data from JSON files based on text-only: 
-
-See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/Data%20Extraction)
+1- Data analysis: clean the data from JSON files based on text-only: See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/Data%20Extraction)
 
 2- Provisioning the Watson Discovery service and Training for Querries on our Dataset: [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) 
 
@@ -76,9 +74,6 @@ See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COV
 4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
 
 5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
-
-
-
 
 ![](WDLAB.png)<br>
 
@@ -90,27 +85,31 @@ See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COV
 
 ![](WDLAB000.png)<br>
 
-we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
+We have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 
 ![](Data_Uploaded.png)<br>
 
-Start to build your querie.<br>  
-
 ![](WDLAB2.png)<br>
-
-For example, a simple question to train the machine.<br>
 
 ![](WDLAB3.png)<br>
 
-then, after you train your queries, start to rate the most relevent answer for your quiere. you can pick more than artical   
+Then, after you train your queries, start to rate the most relevant articles for your queries.<br>
 
 ![](Rates_Results.png)<br>
 
 ![](queries.png)<br>
 
-With Watson Assistant conversation AI chatbot, we are have integrated WD with WA through webhook.<br> 
+
+3- Provisioning of Watson Assistant and Setting up our Chatbot: [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+
+
+
+4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
 
 ![](connection.png)
+
+5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
+
 
 
 ## Running the tests
