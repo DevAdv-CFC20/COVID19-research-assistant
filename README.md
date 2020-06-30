@@ -85,9 +85,15 @@ we have only prepared “comm_use_subset” which it has 9,120 articles to feed 
 
 ![](Data_Uploaded.png)<br>
 
+Start to build your querie.<br>  
+
 ![](WDLAB2.png)<br>
 
+For example, a simple question to train the machine.<br>
+
 ![](WDLAB3.png)<br>
+
+then, after you train your queries, start to rate the most relevent answer for your quiere. you can pick more than artical   
 
 ![](Rates_Results.png)<br>
 
