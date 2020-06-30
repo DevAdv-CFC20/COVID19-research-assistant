@@ -77,11 +77,17 @@ With this provided datasets 158,000 scholarly articles, we have only prepared â€
 
 ![](WDLAB1.png)<br>
 
+![](WDLAB0.png)<br>
+
+![](WDLAB00.png)<br>
+
+![](WDLAB000.png)<br>
+
+![](Data_Uploaded.png)<br>
+
 ![](WDLAB2.png)<br>
 
 ![](WDLAB3.png)<br>
-
-![](Data_Uploaded.png)<br>
 
 ![](Rates_Results.png)<br>
 
