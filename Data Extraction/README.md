@@ -3,6 +3,8 @@
 
 # Data analysis: clean the data from JSON files based on text-only:
 
+With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.
+
 The new output data can be found in the box, the share link here: https://ibm.box.com/s/8xeikvflfndb00hgg61ycqnp83amy3te
 In the share link, we will find two different zip folders which we have used for:
 
