@@ -78,7 +78,7 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 ![](WDLAB1.png)<br>
 
 
-Process your data and start feeding the Discovery.<br> 
+Process your data and feed the Discovery.<br> 
 
 
 ![](WDLAB000.png)<br>
@@ -133,6 +133,8 @@ Setup the webhook.
 
 Integrate your WA with Discovery with Cloud Functions.<br>
 
+Find the code in [actions](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/actions)
+
 ![](functions.png)<br> 
 
 
@@ -146,6 +148,9 @@ Integrate your WA with Discovery with Cloud Functions.<br>
 
 
 5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
+
+
+Find the codes in [server](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/server)
 
 
 ![](appoutput.png)<br>
