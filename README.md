@@ -81,10 +81,9 @@ See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COV
 
 ![](WDLAB000.png)<br>
 
-![](Data_Uploaded.png)<br>
-
 we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 
+![](Data_Uploaded.png)<br>
 
 ![](WDLAB2.png)<br>
 
