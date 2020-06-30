@@ -95,8 +95,9 @@ https://covid19cfcc.eu-gb.mybluemix.net/
 
 ## Authors
 
+Masa Abushamleh, Mofaq Althiyabi, Saad Tariq, Huzaifah Saleem
 
-See also the list of [contributors](https://github.com/DevAdv-CFC20/COVID19-research-assistant/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/DevAdv-CFC20/COVID19-research-assistant/graphs/contributors) who participated in this project.
 
 ## License
 
