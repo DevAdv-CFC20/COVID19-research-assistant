@@ -71,55 +71,76 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 
 ![](WDLAB.png)<br>
 
+
 ![](WDLAB0.png)<br>
+
 
 ![](WDLAB1.png)<br>
 
-![](WDLAB00.png)<br>
 
 ![](WDLAB000.png)<br>
 
+
 We have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
+
 
 ![](Data_Uploaded.png)<br>
 
+
 ![](WDLAB2.png)<br>
+
+
+For example, a simple question to train the Discovery. 
+
 
 ![](WDLAB3.png)<br>
 
+
 Then, after you train your queries, start to rate the most relevant articles for your queries.<br>
+
 
 ![](Rates_Results.png)<br>
 
+
 ![](queries.png)<br>
-
-----------------------
-
 
 
 3- Provisioning of Watson Assistant and Setting up our Chatbot: [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 
+
+
 ![](WALAB.png)<br> 
+
 
 ![](WALAB1.png)<br> 
 
+
 ![](WALAB2.png)<br>
+
 
 ![](WALAB3.png)<br>
 
+
 4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
+
 
 ![](functions.png)<br> 
 
+
 ![](functions0.png)<br> 
+
 
 ![](functions1.png)<br>
 
+
 ![](functions2.png)<br>
+
 
 5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
 
+
 ![](appoutput.png)<br>
+
 
 
 ## Running the tests
