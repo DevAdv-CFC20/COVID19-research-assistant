@@ -105,6 +105,11 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgements
 
+We would like to seize the opportunity to acknowledge our express our gratitude towards all those who extended their kind help in fulfilling this endeavor. 
+We are grateful to [IBM] for the technology and resources, special thanks to Richard Hagarty for his technical support with Discovery.
+Nevertheless, we express our gratitude toward our families and colleagues for their kind co-operation and encouragement which help us in completion of this project.
+
+
 ## Resources
 
 [1] https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge <br>
