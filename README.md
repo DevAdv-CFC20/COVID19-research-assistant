@@ -95,7 +95,6 @@ https://covid19cfcc.eu-gb.mybluemix.net/
 
 ## Authors
 
-* **Mofaq Althiyabi** - *Initial work* - [MofaqAlthiyabi](https://github.com/MofaqAlthiyabi)
 
 See also the list of [contributors](https://github.com/DevAdv-CFC20/COVID19-research-assistant/graphs/contributors) who participated in this project.
 
