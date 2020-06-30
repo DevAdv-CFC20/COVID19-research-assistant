@@ -51,26 +51,21 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 
 ## Project Roadmap
 
+## Dataset
+
+Kaggle has free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
+The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.<br>
+
+![](reasource.png)<br>
+
+We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.<br>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Running the tests
-
-## Live Demo
-https://covid19cfcc.eu-gb.mybluemix.net/
-## Built with
-
-## Authors
-Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
-
-
-## Dataset
-Kaggle has free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
-The Cord-19 resource offers more than 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses.<br>
-![](reasource.png)<br>
-We found these datasets useful to apply the Watson Discovery AI Search Engine on those articles.<br>
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
+
 ![](Data_Uploaded.png)<br>
 
 ![](Rates_Results.png)<br>
@@ -80,6 +75,26 @@ With this provided datasets 158,000 scholarly articles, we have only prepared �
 With Watson Assistant conversation AI chatbot, we are have integrated WD with WA through webhook.<br> 
 
 ![](connection.png)
+
+
+## Running the tests
+
+## Live Demo
+
+https://covid19cfcc.eu-gb.mybluemix.net/
+
+## Built with
+
+* [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) - AI search engine used
+* [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) -  AI conversational platform used
+* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+* [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results) -  developing and deploying the app used 
+
+
+
+## Authors
+
+Huzaifah Saleem, Masa Abushamleh, Mofaq Althiyabi, Saad Tariq
 
 ## License
 
