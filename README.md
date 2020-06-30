@@ -40,6 +40,8 @@ This task required a lot of reading and understanding the academic and scientifi
 ![](architecture-diagram.png)
 
 
+The project methodology is defined as:
+
 1. The user interacts with Watson Assistant.
 2. Watson Assistant Invokes Watson Discovery.
 3. Watson Discovery finds the optimal results regarding the querries and responds to Assistant.
