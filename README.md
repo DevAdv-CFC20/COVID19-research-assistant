@@ -53,6 +53,9 @@ https://medium.com/swlh/covid-19-research-assistant-using-ai-watson-discovery-to
 
 ## Project Roadmap
 
+![](RoadMap.png)
+
+
 ## Dataset
 
 Kaggle has free accessible datasets related to COVID-19 Open Research Dataset (CORD-19).<br>
