@@ -44,7 +44,7 @@ The project methodology is defined as:
 
 1. The user interacts with Watson Assistant.
 2. Watson Assistant Invokes Watson Discovery.
-3. Watson Discovery finds the optimal results regarding the querries and responds to Assistant.
+3. Watson Discovery finds the optimal results regarding the queries and responds to Assistant.
 4. Watson Assistant displays the results to the User.
 
 ## Long Description
