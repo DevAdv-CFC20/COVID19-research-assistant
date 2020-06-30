@@ -22,6 +22,7 @@ This project addresses the Crisis Communication COVID-19 challenge in Call for C
 1. [Resources](#resources)
 
 ## Short Description
+
 ### Problem Statement
 Today scientists, researchers, doctors, and medical professionals face challenges when they look for answers to their high priority scientific questions.
 The rapid acceleration in new coronavirus literature makes it difficult for the medical research community to Keep up. Therefore there’s a growing urgency for approaches in Natural Language Processing and AI to help medical professionals generate new insights in support of the ongoing fight against this infectious disease.<br>
@@ -65,6 +66,8 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+1- Data analysis: clean the data from JSON files based on text-only  [data extraction](Data Extraction)
+
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 
 ![](Data_Uploaded.png)<br>
@@ -97,7 +100,7 @@ https://covid19cfcc.eu-gb.mybluemix.net/
 
 Masa Abushamleh, Mofaq Althiyabi, Saad Tariq, Huzaifah Saleem
 
-See the list of [collaborators](https://github.com/DevAdv-CFC20/COVID19-research-assistant/graphs/contributors) who participated in this project.
+See the list of [collaborators]() who participated in this project.
 
 ## License
 
