@@ -69,6 +69,8 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 
 See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/Data%20Extraction)
 
+next you need to install node.js 
+
 2- Create new Discovery to start prepare for uploading: [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) 
 
 ![](WDLAB.png)<br>
@@ -105,6 +107,24 @@ With Watson Assistant conversation AI chatbot, we are have integrated WD with WA
 
 
 ## Running the tests
+
+## Setup
+`git clone` the repo and `cd` into it by running the following command:
+
+```bash
+git clone https://github.com/DevAdv-CFC20/COVID19-research-assistant.git
+cd 
+```
+
+### `npm install`
+
+> **Note: You’ll need to have Node 8.10.0 or later on your local development machine.** You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to easily switch Node versions between different projects.
+
+## Run the App
+### `npm start`
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 
 ## Live Demo
 
