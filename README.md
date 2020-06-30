@@ -69,9 +69,16 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 
 See the folder for details [data extraction](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/Data%20Extraction)
 
-next you need to install node.js 
+2- Provisioning the Watson Discovery service and Training for Querries on our Dataset: [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) 
 
-2- Create new Discovery to start prepare for uploading: [Watson Discovery](https://cloud.ibm.com/catalog?search=Discovery#search_results) 
+3- Provisioning of Watson Assistant and Setting up our Chatbot: [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
+
+4- Integration of the Watson Assistant with Watson Discovery using IBM Cloud Functions: [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results)
+
+5- Development of a user interface for our application and deploying it onto the IBM Cloud using toolchain: [IBM DevOps Toolchain](https://cloud.ibm.com/catalog?search=Devops#search_results)
+
+
+
 
 ![](WDLAB.png)<br>
 
@@ -107,6 +114,15 @@ With Watson Assistant conversation AI chatbot, we are have integrated WD with WA
 
 
 ## Running the tests
+
+You can test the app is running and deoplyed on the cloud: https://covid19assistantcfc.mybluemix.net/
+
+If you want to run it on your local machine you need to clone the repo. 
+
+## Prerequisites
+
+    Install Node.js
+    Clone this repository 
 
 ## Setup
 `git clone` the repo 
