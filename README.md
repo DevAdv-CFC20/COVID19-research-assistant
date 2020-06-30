@@ -66,7 +66,7 @@ We found these datasets useful to apply the Watson Discovery AI Search Engine on
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-1- Data analysis: clean the data from JSON files based on text-only  [data extraction](Data Extraction)
+1- Data analysis: clean the data from JSON files based on text-only [data extraction](https://github.com/DevAdv-CFC20/COVID19-research-assistant/tree/master/Data%20Extraction)
 
 With this provided datasets 158,000 scholarly articles, we have only prepared “comm_use_subset” which it has 9,120 articles to feed inside Watson Discovery.<br>
 
